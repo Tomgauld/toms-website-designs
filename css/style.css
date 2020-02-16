@@ -1,0 +1,128 @@
+body {
+	background-color: #202020;
+	color: white;
+	margin: 0;
+	padding: 20px;
+}
+a {
+	color: inherit;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+.polaroid img {
+	border-radius: 100%;
+	width: 250px;
+	height: auto;
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+	display: block;
+}
+.container {
+	padding: 0px 0px;
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1%;
+  	text-align: center;
+}
+.bio {
+	padding: 0px 425px;
+	font-size: 15px;
+	font-family: sans-serif;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1%;
+  	text-align: center;
+}
+.links {
+	padding: 0px 0px;
+	list-style: none;
+	margin-left: auto;
+	margin-right: auto;
+  	text-align: center;
+  	font-family: sans-serif;
+}
+.link {
+	margin-bottom: 10px;
+}
+.link img {
+	padding: 0px 5px;
+	display: inline-block;
+	width: 19px;
+	vertical-align: middle;
+}
+.email {
+	padding: 0px 0px;
+	list-style: none;
+	margin-left: auto;
+	margin-right: auto;
+  	text-align: center;
+  	font-family: sans-serif;
+}
+.email img {
+	padding: 0px 5px;
+	display: inline-block;
+	width: 19px;
+	vertical-align: middle;
+}
+.twitter {
+	padding: 0px 0px;
+	list-style: none;
+	margin-left: auto;
+	margin-right: auto;
+  	text-align: center;
+  	font-family: sans-serif;
+}
+.twitter img {
+	padding: 0px 5px;
+	display: inline-block;
+	width: 19px;
+	vertical-align: middle;
+}
+.facebook {
+	padding: 0px 0px;
+	list-style: none;
+	margin-left: auto;
+	margin-right: auto;
+  	text-align: center;
+  	font-family: sans-serif;
+}
+.facebook img {
+	padding: 0px 5px;
+	display: inline-block;
+	width: 19px;
+	vertical-align: middle;
+}
+.instagram {
+	padding: 0px 0px;
+	list-style: none;
+	margin-left: auto;
+	margin-right: auto;
+  	text-align: center;
+  	font-family: sans-serif;
+}
+.instagram img {
+	padding: 0px 5px;
+	display: inline-block;
+	width: 19px;
+	vertical-align: middle;
+}
+.linkedin {
+	padding: 0px 0px;
+	list-style: none;
+	margin-left: auto;
+	margin-right: auto;
+  	text-align: center;
+  	font-family: sans-serif;
+}
+.linkedin img {
+	padding: 0px 5px;
+	display: inline-block;
+	width: 19px;
+	vertical-align: middle;
+}
